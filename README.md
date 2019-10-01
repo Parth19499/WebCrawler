@@ -26,7 +26,7 @@ This program will crawl a given website and its links upto a given depth looking
 
 ## Notes
 * To change base url for crawling, edit `$url` variable
-* To change number of links traversed per page, edit `$linklim`
+* To change number of links traversed per page, edit `$linklim` variable
 
 ## Future Work
 * Store paragraphs retrieved in file
